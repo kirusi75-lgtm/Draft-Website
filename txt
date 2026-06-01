@@ -1,2 +1,4 @@
-_github-pages-challenge-kirusi75-lgtm.draft385miyako.com
-d6d05e56ac35a9a1927bb5831a6bd9
+1. Create a TXT record in your DNS configuration for the following hostname: _github-pages-challenge-kirusi75-lgtm.draft385miyako.com
+2. Use this code for the value of the TXT record: d6d05e56ac35a9a1927bb5831a6bd9
+3. Wait until your DNS configuration changes. This could take up to 24 hours to propagate.
+
